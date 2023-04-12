@@ -1,0 +1,39 @@
+@import url("typography.css");
+@import url("colors.css");
+@import url("layout-blogpage.css");
+h1{
+    margin-top: 30px;
+}
+.container > div{
+margin: 20px;
+}
+.container-1{
+align-items: center;
+}
+hr{
+width: auto;
+}
+#goback{
+margin-left: 20px;
+}
+blockquote{
+margin-top: -10px;
+}
+button{
+width: 200px;
+height: 50px;
+margin-left: 540px;
+box-shadow: 0 4px 4px 0 black, 0 4px 4px 0 black;
+}
+#img1{
+border-radius: 50%;
+border: 3px solid black;
+}
+#img2{
+margin-left: 190px;
+border: 2px solid black;
+}
+.span{
+border-left: 6px solid blue;
+padding: 5px;
+}

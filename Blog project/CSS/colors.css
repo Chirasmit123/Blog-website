@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(240, 154, 183);
+}
+h1{
+    background-color: rgb(96, 96, 199);
+}
+.container{
+    background-color: rgb(84, 84, 205);
+}
+.container > div{
+    color: white;
+}
+hr{
+    border-color: black;
+}
+button{
+    background-color: white;
+}
+button:hover{
+    background-color: blue;
+}
+button:hover >a {
+    color: white;
+}
+.span{
+    background-color: rgba(32, 32, 219, 0.283);
+}
